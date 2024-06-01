@@ -1,0 +1,31 @@
+{
+  "name": "watermark-bot",
+  "description": "A Telegram bot to add watermarks to videos.",
+  "repository": "https://github.com/yourusername/watermark-bot",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Bot token for your Telegram bot",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "API ID from my.telegram.org",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "API Hash from my.telegram.org",
+      "value": ""
+    },
+    "LOG_CHANNEL": {
+      "description": "Log Channel ID",
+      "value": ""
+    },
+    "UPDATES_CHANNEL": {
+      "description": "Updates Channel ID",
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "Owner ID",
+      "value": ""
+    }
+  }
+}
