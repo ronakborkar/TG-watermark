@@ -3,3 +3,4 @@ pillow
 aiohttp
 hachoir
 python-dotenv
+pytest
