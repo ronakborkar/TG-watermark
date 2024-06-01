@@ -4,3 +4,4 @@ aiohttp
 hachoir
 python-dotenv
 pytest
+pycryptodome
